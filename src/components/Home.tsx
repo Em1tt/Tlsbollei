@@ -36,30 +36,29 @@ export const Main = () => (
             <div className="prose max-w-none col-span-12 md:col-span-10 overflow-hidden min-w-0">
               <p className="break-words">
                 Hi, I'm tlsbollei! I'm passionate about cybersecurity and
-                low-level computing.{" "}
+                low-level computing, with a primary focus on malware development and analysis.{" "}
               </p>
               <h2 className="mt-0 mb-0">What I do</h2>
               <ul className="break-words">
                 <li>
                   <b>Reverse Engineering</b>: I enjoy dissecting software and
-                  understanding how things work under the hood
+                  understanding how things work under the hood. I especially love analyzing malware, and I'm shifting my skills to reversing firmware/hardware.
                 </li>
                 <li>
                   <b>Capture The Flag (CTF)</b>: Regular participant in
-                  cybersecurity competitions, solving challenges in cryptography,
-                  binary exploitation, and more
+                  cybersecurity competitions, primarily solving reverse engineering challenges, along with occasional cryptography.
                 </li>
                 <li>
-                  <b>Security Research</b>: Always learning about new
-                  vulnerabilities and exploitation techniques
+                  <b>Security Research</b>: Always learning. I'm a member of multiple private security research groups where we primarily discuss windows low-level internals.
+                </li>
+                <li>
+                  <b>Offensive/Defensive operations</b>:  Regularly participate in offensive and defensive simulations on real life digital infrastructures, with extensive experience in incident response, digital forensics, SOC analytics and leading offensive attacks on the Windows enviroment.
                 </li>
               </ul>
               <h2 className="mt-0 mb-0">Interests</h2>
               <p>
                 When I'm not deep in assembly code or hunting for flags, I enjoy
-                exploring the intersection of technology and creativity. I believe
-                in building an inclusive tech community where everyone can express
-                themselves authentically.
+                exploring the intersection of technology and creativity. I also believe in the occasional walk. N <3
               </p>
               <p>
                 Feel free to reach out if you want to collaborate on security
