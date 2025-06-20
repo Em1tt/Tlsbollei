@@ -58,7 +58,7 @@ export const Main = () => (
               <h2 className="mt-0 mb-0">Interests</h2>
               <p>
                 When I'm not deep in assembly code or hunting for flags, I enjoy
-                exploring the intersection of technology and creativity. I also believe in the occasional walk. N <3
+                exploring the intersection of technology and creativity. I also believe in the occasional walk. Nink !! 
               </p>
               <p>
                 Feel free to reach out if you want to collaborate on security
